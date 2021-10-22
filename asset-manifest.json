@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ThiagoCComelli/gh-pages-testing-requests/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ThiagoCComelli/gh-pages-testing-requests/static/js/main.1b2de39c.chunk.js",
+    "main.js.map": "/ThiagoCComelli/gh-pages-testing-requests/static/js/main.1b2de39c.chunk.js.map",
+    "runtime-main.js": "/ThiagoCComelli/gh-pages-testing-requests/static/js/runtime-main.7ac92281.js",
+    "runtime-main.js.map": "/ThiagoCComelli/gh-pages-testing-requests/static/js/runtime-main.7ac92281.js.map",
+    "static/js/2.fb3fc7e4.chunk.js": "/ThiagoCComelli/gh-pages-testing-requests/static/js/2.fb3fc7e4.chunk.js",
+    "static/js/2.fb3fc7e4.chunk.js.map": "/ThiagoCComelli/gh-pages-testing-requests/static/js/2.fb3fc7e4.chunk.js.map",
+    "index.html": "/ThiagoCComelli/gh-pages-testing-requests/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ThiagoCComelli/gh-pages-testing-requests/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fb3fc7e4.chunk.js.LICENSE.txt": "/ThiagoCComelli/gh-pages-testing-requests/static/js/2.fb3fc7e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ac92281.js",
+    "static/js/2.fb3fc7e4.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1b2de39c.chunk.js"
+  ]
+}
