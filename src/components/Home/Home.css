@@ -1,0 +1,46 @@
+.mainHome {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+.mainHomeBox > h1 {
+  font-weight: 500;
+  font-size: 2.8rem;
+}
+
+.mainHomeBox > span {
+  font-weight: 300;
+  font-size: 1.4rem;
+}
+
+.mainHomeBoxPulse {
+  border-right: solid 1px #fff;
+  margin-left: 0px;
+}
+
+.mainHomeBoxPulse.active {
+  border-right: solid 1px #000;
+}
+
+.mainHome > button {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  height: 30px;
+  padding: 0 15px;
+  border-radius: 15px;
+  background-color: #fff;
+  border: solid 1px gray;
+  font-weight: 700;
+  color: #000;
+  cursor: pointer;
+  transition: all .2s ease-in-out;
+}
+
+.mainHome > button:hover {
+  border-color: #000;
+}
